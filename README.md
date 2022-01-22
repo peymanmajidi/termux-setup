@@ -11,7 +11,7 @@ then go for installing your target app like:
 # Termux-API
 For access termux command list like the list below you should first install `termux-api` apk via Google play store
 ![termux-api](https://user-images.githubusercontent.com/24313930/150627496-1590c4b2-8eca-434d-b966-7a72825d88db.png)
-[Download Termux-api via Google play store](https://play.google.com/store/apps/details?id=com.termux.api&hl=en&gl=US)
+[Download Termux-api - Google play store](https://play.google.com/store/apps/details?id=com.termux.api&hl=en&gl=US)
 
 
 # SSH
@@ -28,7 +28,7 @@ After installation you need to restart session or source this file:
 
 `source $PREFIX/etc/profile.d/start-services.sh`
 Now you ready to enable and start the FTP daemon service:   
-```
+```bash
     sv-enable ftpd
     sv up ftpd
 ```
@@ -86,7 +86,7 @@ the go to `C` drive:
 ```    
 
 # Tor
-```
+```bash
     apt install tor
     tor
     tor --HTTPTunnelPort 8118 #by pass filter all over the phone
