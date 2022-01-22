@@ -81,4 +81,4 @@ xfce4-terminal - Terminal emulator for XFCE. It is not included as part of XFCE 
 # Related to my YouTube video
 [![image](https://user-images.githubusercontent.com/24313930/150626014-3018ea4e-0d68-43d1-8124-65cb6ee5459d.png)](https://www.youtube.com/watch?v=IDKTqLLsWNc)
 
-[Aparat](https://aparat.com/v/92iXv)
+[Aparat](https://aparat.com/v/0KhNu)
