@@ -19,7 +19,7 @@ SSH provides a secure way for accessing remote hosts and replaces tools such as 
 `apt install openssh`
 
 ## Usage
-`ssh user@hostname_or_ip-p 8022`   
+`ssh user@ipaddress -p 8022`   
 [more info...](https://wiki.termux.com/wiki/Remote_Access)
 
 # FTP
