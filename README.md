@@ -7,8 +7,10 @@
 
 
 # First Time
-Before ay installation you should first `update` packages repositories like:   
-`apt update`
+Before any installation you should first `update` packages repositories like:   
+`apt update`  
+then go for installing your target app like:   
+`apt install cmatrix`   
 
 # Graphical Environment
 Enabling the X11 Repository  
