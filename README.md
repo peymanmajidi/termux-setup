@@ -9,7 +9,10 @@ then go for installing your target app like:
 `apt install cmatrix`   
 
 # Termux-API
-`pass`
+For access termux command list like the list below you should first install `termux-api` apk via Google play store
+![termux-api](https://user-images.githubusercontent.com/24313930/150627496-1590c4b2-8eca-434d-b966-7a72825d88db.png)
+[Download Termux-api via Google play store](https://play.google.com/store/apps/details?id=com.termux.api&hl=en&gl=US)
+
 
 # SSH
 SSH provides a secure way for accessing remote hosts and replaces tools such as telnet, rlogin, rsh, ftp. Termux provides SSH via two packages: dropbear and openssh. If you never used these tools before, it is recommended to install 'openssh' as it is more common. Installing:   
@@ -54,8 +57,16 @@ X11 packages are available in a separate APT repository. You can enable it by ru
 
 It means that X (vnc) server is available on display 'localhost:1'.
 
-4. Finally, to make programs do graphical output to the display 'localhost:1', set environment variable like shown here (yes, without specifying 'localhost'):   
+4. Finally, to make programs do graphical output to the display 'localhost:1', set environment variable like shown here (yes, without specifying 'localhost'):      
 `export DISPLAY=":1"`
+## XFCE
+`apt install xfce4`   
+`xfce4-session &`
+
+Additional recommended packages for installation:
+
+netsurf - Simple graphical web browser. Javascript is not supported.
+xfce4-terminal - Terminal emulator for XFCE. It is not included as part of XFCE installation to allow use of aterm or st.
 
 [more info...](https://wiki.termux.com/wiki/Graphical_Environment)
 
@@ -70,4 +81,4 @@ It means that X (vnc) server is available on display 'localhost:1'.
 # Related to my YouTube video
 [![image](https://user-images.githubusercontent.com/24313930/150626014-3018ea4e-0d68-43d1-8124-65cb6ee5459d.png)](https://www.youtube.com/watch?v=IDKTqLLsWNc)
 
-![Aparat](https://aparat.com/v/92iXv)
+[Aparat](https://aparat.com/v/92iXv)
