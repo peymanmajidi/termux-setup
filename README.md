@@ -1,6 +1,6 @@
-# termux-setup
-Related to my YouTube video about setting up Termux
+# Related to my YouTube video about setting up Termux
 
+[![image](https://user-images.githubusercontent.com/24313930/150626014-3018ea4e-0d68-43d1-8124-65cb6ee5459d.png)](https://www.youtube.com/watch?v=IDKTqLLsWNc)
 
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) در دست ساخت
