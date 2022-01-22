@@ -1,3 +1,6 @@
+# Related to my YouTube video 
+[![image](https://user-images.githubusercontent.com/24313930/150628353-81b697e3-7bd9-4746-b55d-31b752516616.png)](https://www.youtube.com/watch?v=IDKTqLLsWNc)
+
 # Setting Up Termux
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) در دست ساخت
@@ -97,7 +100,6 @@ the go to `C` drive:
 `pass`
 
 
-# Related to my YouTube video
-[![image](https://user-images.githubusercontent.com/24313930/150626014-3018ea4e-0d68-43d1-8124-65cb6ee5459d.png)](https://www.youtube.com/watch?v=IDKTqLLsWNc)
-
+# Links
+[Watch the video](https://www.youtube.com/watch?v=IDKTqLLsWNc)   
 [Aparat](https://aparat.com/v/0KhNu)
