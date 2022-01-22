@@ -70,6 +70,21 @@ xfce4-terminal - Terminal emulator for XFCE. It is not included as part of XFCE 
 
 [more info...](https://wiki.termux.com/wiki/Graphical_Environment)
 
+# Windows 3.1
+First [download](https://github.com/peymanmajidi/termux-setup/raw/main/Windows3-1.zip) the zip file then extract the file in the root of home folder   
+then install `Dosbox`:   
+`apt install dosbox`   
+run Dosbox and mount the home folder as drive c like:   
+`mount c: ~`   
+![image](https://user-images.githubusercontent.com/24313930/150628155-b92775ac-1511-43df-80d1-f905df8d5b06.png)
+
+the go to `C` drive:   
+```cmd
+    c:
+    cd WINDOWS
+    WIN.COM
+```    
+
 # Tor
 ```
     apt install tor
