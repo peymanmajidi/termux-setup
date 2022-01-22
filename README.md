@@ -71,7 +71,11 @@ xfce4-terminal - Terminal emulator for XFCE. It is not included as part of XFCE 
 [more info...](https://wiki.termux.com/wiki/Graphical_Environment)
 
 # Tor
-`pass`
+```
+    apt install tor
+    tor
+    tor --HTTPTunnelPort 8118 #by pass filter all over the phone
+```
 
 
 # Random Emoji game
