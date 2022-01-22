@@ -1,16 +1,21 @@
-# Related to my YouTube video about setting up Termux
-
-[![image](https://user-images.githubusercontent.com/24313930/150626014-3018ea4e-0d68-43d1-8124-65cb6ee5459d.png)](https://www.youtube.com/watch?v=IDKTqLLsWNc)
 
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) در دست ساخت
 
-
-# First Time
+# Before installation
 Before any installation you should first `update` packages repositories like:   
 `apt update`  
 then go for installing your target app like:   
 `apt install cmatrix`   
+
+# Termux-API
+`pass`
+
+# SSH
+`pass`
+
+# FTP
+`pass`
 
 # Graphical Environment
 Enabling the X11 Repository  
@@ -35,4 +40,13 @@ It means that X (vnc) server is available on display 'localhost:1'.
 4. Finally, to make programs do graphical output to the display 'localhost:1', set environment variable like shown here (yes, without specifying 'localhost'):   
 `export DISPLAY=":1"`
 
+# Tor
+`pass`
+
+# Random Emoji game
+`pass`
+
+
+# Related to my YouTube video about setting up Termux
+[![image](https://user-images.githubusercontent.com/24313930/150626014-3018ea4e-0d68-43d1-8124-65cb6ee5459d.png)](https://www.youtube.com/watch?v=IDKTqLLsWNc)
 
